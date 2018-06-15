@@ -1,5 +1,3 @@
-
-#define _CRT_SECURE_NO_DEPRECATE
 #include<cstdlib>
 #include<cstdio>
 using namespace std;
@@ -63,4 +61,3 @@ int searchPath(PLANT plt,int dx,int dy){
 		return steps;
 	
 }
-
